@@ -1,0 +1,5 @@
+/*第一种情况：footer随着进度条的滚动而滚动*/
+.container{width:100%;min-height:100%;position:relative;}
+.body{padding-bottom:50px;background-color: cornflowerblue;height:700px;width:100%;}
+.footer{height:50px;width:100%;position:absolute;bottom:0px;left:0px;background-color: burlywood;}
+.header{height:50px;width:100%;background-color: aquamarine;}
